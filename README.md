@@ -1,6 +1,6 @@
 # React Native Sample App
 
-This code is built from the React native crash course
+This code was built from the React native crash course
 
 ### Usage
 
