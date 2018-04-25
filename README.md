@@ -2,14 +2,7 @@
 
 This code was built from the React native crash course
 
-### Usage
-
-
-### Installation
-
-```sh
-$ npm install
-```
+### Example Usage
 
 ### Run the packager
 
